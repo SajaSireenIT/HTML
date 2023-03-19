@@ -11,3 +11,12 @@ Thet usually enclosed in angle braces <>.
 # Attributes
 They contain additional pieces of information.
 Additional informations are written inside the braces<>.
+
+Example:
+  <h1>Hello...new creation</h1>   Save this as "index.html" in a new folder.
+In HTML headings are written in elements like:
+ <h1>
+  <h2>
+    <h3>
+      etc,..
+      
