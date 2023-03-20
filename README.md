@@ -23,3 +23,5 @@ In HTML headings are written in elements like:
 # Bold and Italics 
       <i>  visual only italics
       <em> emphasis italics
+<strong> important, seriousness, urgency
+<b> bold
