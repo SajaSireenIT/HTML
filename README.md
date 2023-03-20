@@ -25,3 +25,8 @@ In HTML headings are written in elements like:
       <em> emphasis italics
 <strong> important, seriousness, urgency
 <b> bold
+# Lists
+  * Unordered List - <ul> - most popular
+  * Ordered List
+  * Definition List
+<li> list item
