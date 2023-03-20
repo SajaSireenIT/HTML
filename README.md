@@ -20,3 +20,6 @@ In HTML headings are written in elements like:
     <h3>
       etc,..
       
+# Bold and Italics 
+      <i>  visual only italics
+      <em> emphasis italics
