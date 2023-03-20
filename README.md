@@ -27,6 +27,6 @@ In HTML headings are written in elements like:
 <b> bold
 # Lists
   * Unordered List - <ul> - most popular
-  * Ordered List
-  * Definition List
+  * Ordered List - <ol> 
+  * Definition List - <dl>
 <li> list item
