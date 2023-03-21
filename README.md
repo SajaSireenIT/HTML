@@ -31,11 +31,16 @@ In HTML headings are written in elements like:
   * Definition List - <dl>
 <li> list item
 
-# Quotes - <q>
-  <blockquote>
- Inline elements
+# Quotes - <q> - used for inline phrases
+  <blockquote> - used for block context
+ * Inline elements
     <q>
     <strong>
     <b>
     <i>
     <em>  
+* Block level elements
+      <blockquote>
+      <p>
+      <ul>
+        
