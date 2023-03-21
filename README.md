@@ -48,3 +48,9 @@ In HTML headings are written in elements like:
         <time>May 8,2025</time>
         <elementname attributename="" >
           
+# code, pre and br
+         * HTML ELEMENT
+          &lt; - gives < symbol
+          &gt; - gives > symbol
+    
+          
