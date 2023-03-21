@@ -52,5 +52,7 @@ In HTML headings are written in elements like:
          * HTML ELEMENT
           &lt; - gives < symbol
           &gt; - gives > symbol
+    * <br> - line break
+    * <pre> - for leaving big spaces like that.
     
           
