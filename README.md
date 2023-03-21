@@ -30,3 +30,12 @@ In HTML headings are written in elements like:
   * Ordered List - <ol> 
   * Definition List - <dl>
 <li> list item
+
+# Quotes - <q>
+  <blockquote>
+ Inline elements
+    <q>
+    <strong>
+    <b>
+    <i>
+    <em>  
