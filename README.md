@@ -55,4 +55,9 @@ In HTML headings are written in elements like:
     * <br> - line break
     * <pre> - for leaving big spaces like that.
     
-          
+# Subscripts, superscripts and small text
+  <sub> - Subscripts - character that are set below the text baseline . example for writting chemical formulas . h2o
+  <sup> - Superscripts - for writting powers.
+   
+  MathML - markup language for math
+   <small> - to convey something that has very little prominence. 
